@@ -1,4 +1,4 @@
-# RandomForesrModel
+# RandomForestModel
 Dataset analysis and model selection
 
 ---
